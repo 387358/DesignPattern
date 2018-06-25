@@ -19,5 +19,5 @@ Observer pattern is that when we have one writer and many readers and then we ca
 * event driven pattern
 
 ## Class Diagram
-An duck world example:
-![Duck example diagram](strategy_pattern.png)
+An weather example:
+![Weather diagram](observer_pattern.png)
