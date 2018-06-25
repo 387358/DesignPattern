@@ -1,6 +1,6 @@
 
 
-# Strategy Pattern
+# Observer Pattern
 
 ## Basic Skill
 1. Abstract Class
