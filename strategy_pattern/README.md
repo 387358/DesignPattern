@@ -16,6 +16,10 @@
 ## Pattern
 Strategy pattern is that we try to find out the changed parts, and encapsulate it. This pattern make the core algorithms can be alternated easily without effect the current program which is not related with changed parts.
 
+## Application
+* neuron network -> activation function
+* read/write -> compression algorithm
+
 ## Class Diagram
-An duck world example:
-![Duck example diagram](strategy_pattern.png)
+An weather example:
+![Weather example diagram](observer_pattern.png)
