@@ -21,5 +21,5 @@ Strategy pattern is that we try to find out the changed parts, and encapsulate i
 * read/write -> compression algorithm
 
 ## Class Diagram
-An weather example:
-![Weather example diagram](observer_pattern.png)
+An duck example:
+![Duck example diagram](strategy_pattern.png)

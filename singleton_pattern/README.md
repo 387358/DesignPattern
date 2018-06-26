@@ -19,5 +19,5 @@ Singleton pattern is that when we have one instance in a program runtime. Moreov
 * Request sender (avoid to login everytime)
 
 ## Class Diagram
-An singleton example:
+An singleton example:<br>
 ![Singleton diagram](singleton_pattern.png)
